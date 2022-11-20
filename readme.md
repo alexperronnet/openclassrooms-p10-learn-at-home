@@ -35,7 +35,7 @@ Learn@Home est une association qui met en relation des enfants en difficulté sc
 ### Liens utiles
 
 * [Répertoire GitHub](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home)
-* [Voir la maquette Figma](https://www.figma.com/file/tXtRNrYypetIgy2uFL2Pxp/learn%40home?node-id=1%3A8&t=VHXG3GFoNwhRP5Xb-1) ou [télécharger la maquette Figma](NEEDFIX) si live non disponible
+* [Voir la maquette Figma](https://www.figma.com/file/tXtRNrYypetIgy2uFL2Pxp/learn%40home?node-id=1%3A8&t=VHXG3GFoNwhRP5Xb-1) ou [télécharger la maquette Figma](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home/raw/main/design/learn%40home.fig) si live non disponible
 * [Kanban du projet](NEEDFIX)
 
 ## License
