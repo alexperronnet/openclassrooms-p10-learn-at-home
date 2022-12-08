@@ -22,7 +22,7 @@ Learn@Home est une association qui met en relation des enfants en difficulté sc
 * [Design system](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home/wiki/Design-System)
 * [Composants](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home/wiki/Composants)
 * Pages de l'application :
-  * [Connection](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home/wiki/Page-connection)
+  * [Connexion](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home/wiki/Page-connexion)
   * [Création de compte](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home/wiki/Page-cr%C3%A9ation-de-compte)
   * [Récupération de mot de passe](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home/wiki/Page-r%C3%A9cup%C3%A9tation-de-mot-de-passe)
   * [Changement de mot de passe](https://github.com/alexperronnet/openclassrooms-p10-learn-at-home/wiki/Page-changement-de-mot-de-passe)
